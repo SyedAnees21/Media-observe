@@ -1,0 +1,8 @@
+{
+  "name": "metrics-exporter",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "prom-client": "^15.1.2"
+  }
+}

@@ -1,0 +1,12 @@
+node_modules
+
+src-tauri
+src_tauri
+target
+
+dist
+build
+
+*.md
+*.json
+*.log
