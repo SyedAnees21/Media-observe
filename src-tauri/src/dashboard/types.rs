@@ -3,6 +3,7 @@ use serde::Serialize;
 #[derive(Clone, Serialize)]
 pub enum VisualizationType {
     Gauge,
+    #[allow(unused)]
     LineChart,
     Counter,
     Histogram,
